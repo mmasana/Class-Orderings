@@ -17,7 +17,7 @@ and to evaluate on the different approaches.
 It is the code for the survey paper:
 _**Class-incremental learning: survey and performance evaluation**_
 [[paper](https://arxiv.org/abs/2010.15277)] [[code](https://github.com/mmasana/FACIL)].
-It provide a (hopefully!) helpful framework to develop new
+It provides a (hopefully!) helpful framework to develop new
 methods for incremental learning and analyse existing ones.
 
 ### Installation and usage
@@ -25,7 +25,6 @@ methods for incremental learning and analyse existing ones.
 
 ```
 git clone https://github.com/mmasana/Class-Orderings.git
-cd Class-Orderings
 ```
 
 2. Clone the [FACIL](https://github.com/mmasana/FACIL) repository:
@@ -37,7 +36,6 @@ cd Class-Orderings
   
   ```
   git clone https://github.com/mmasana/FACIL.git
-  cd FACIL
   ```
 
 </details>
